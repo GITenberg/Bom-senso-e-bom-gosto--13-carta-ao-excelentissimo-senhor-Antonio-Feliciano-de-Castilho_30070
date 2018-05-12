@@ -19,6 +19,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Antero_de_Quental
     - http://en.wikipedia.org/wiki/Antero_de_Quental
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30070#Bom-senso-e-bom-gosto--13-carta-ao-excelentissimo-senhor-Antonio-Feliciano-de-Castilho
 gutenberg_bookshelf: PT Política e Sociedade
 gutenberg_issued: '2009-09-23'
 gutenberg_type: Text
