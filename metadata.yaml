@@ -1,0 +1,36 @@
+_repo: Bom-senso-e-bom-gosto--13-carta-ao-excelentissimo-senhor-Antonio-Feliciano-de-Castilho_30070
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quental, Antero de
+    aliases:
+    - Quental, Anthero de
+    - Tarquino do Quental, Anthero
+    - De Quental, Antero
+    - Tarquinio de Quental, Anthero
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '34296'
+    url: http://www.gutenberg.org/2009/agents/34296
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Antero_de_Quental
+    - http://en.wikipedia.org/wiki/Antero_de_Quental
+description: ''
+gutenberg_bookshelf: PT Política e Sociedade
+gutenberg_issued: '2009-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30070'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Castilho, Antonio Feliciano de, 1800-1875'
+- !lcc 'PQ'
+title: "Bom-senso e bom-gosto\r\ncarta ao excelentissimo senhor Antonio Feliciano\
+  \ de Castilho"
+url: http://www.gutenberg.org/ebooks/30070
